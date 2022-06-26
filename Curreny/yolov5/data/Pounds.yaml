@@ -1,0 +1,9 @@
+train: ../data/images/train/ 
+val:  ../data/images/val/
+test: ../data/images/test/
+
+# number of classes
+nc: 8
+
+# class names
+names: [Half-Pound","One-Pound","Five-Pounds","Ten_Pounds","Twenty-Pounds","Fifty-Pounds","One-Hundred-Pound","Two-Hundred-Pound"]
