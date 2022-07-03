@@ -320,17 +320,21 @@ class Currency:
 
 
 # Distance:
-# distance=detect_distance_objects()
+distance=detect_distance_objects()
 # distance.detect()
 
-# reco=face()
+# Face Recognition
+Face_recognize=face()
 # reco.recognize()
 
-# eng=English_txt()
+# OCR Text
+OCR_Eng=English_txt()
 # eng.ocr()
 
-# ara=Arabic_txt()
+# OCR Arabic
+OCR_Ara=Arabic_txt()
 # ara.ocr()
 
-ee=Emotion()
-ee.emotion_detection()
+# Emotion Detection
+Emotion_detection=Emotion()
+#Emotion_detection.emotion_detection()
