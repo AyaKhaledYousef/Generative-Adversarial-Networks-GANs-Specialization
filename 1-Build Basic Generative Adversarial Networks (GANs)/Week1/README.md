@@ -43,7 +43,7 @@ The discriminative model refers to a class of models used in Statistical Classif
 # Generative Models
 ## 1- Variational AutoEncoders ( VAE ) :
 
-![VAE](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/VAE.jpg)
+![VAE](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/VAE.jpg)
 
 - Autoencoders are a type of neural network that learns the data encodings from the dataset in an unsupervised way. 
 - It basically contains two parts: the first one is an encoder which is similar to the convolution neural network except for the last layer. 
@@ -55,7 +55,7 @@ The discriminative model refers to a class of models used in Statistical Classif
 
 ## 2- Generative Adversarial Network (GAN)
 
-![Generator](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/Generator.png)
+![Generator](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/Generator.png)
 
 - The first step in establishing a GAN is to identify the desired end output and gather an initial training dataset based on those parameters. 
 - This data is then randomized and input into the **generator** until it acquires basic accuracy in producing outputs.
@@ -63,7 +63,22 @@ The discriminative model refers to a class of models used in Statistical Classif
 - The **discriminator** filters through the information and returns a probability between 0 and 1 to represent each image's authenticity (1 correlates with real and 0 correlates with fake). 
 - These values are then manually checked for success and repeated until the desired outcome is reached.
 
-![Generator](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/GAN.png)
+![Generator](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/GAN.png)
+
+
+# Binary Cross Entropy function (BCE)
+- Is used for training GANs. It's useful for these models, because it's especially designed for classification tasks, where there are two categories like, real and fake. 
+
+![BCE](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/BCE1.png)
+
+![BCE](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/BCE2.png)
+
+![BCE](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/BCE3.png)
+
+![BCE](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/BCE4.png)
+
+![BCE](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/BCE5.png)
+
 ## Reference
 
 
@@ -71,3 +86,4 @@ The discriminative model refers to a class of models used in Statistical Classif
 - [Deep Understanding of Discriminative and Generative Models in Machine Learning](https://www.analyticsvidhya.com/blog/2021/07/deep-understanding-of-discriminative-and-generative-models-in-machine-learning/#:~:text=Discriminative%20models%20draw%20boundaries%20in,the%20labels%20of%20the%20data.)
 - [Variational AutoEncoders](https://www.geeksforgeeks.org/variational-autoencoders/)
 - [Generator](https://www.geeksforgeeks.org/generative-adversarial-network-gan/?ref=gcse)
+- [GAN](https://www.geeksforgeeks.org/generative-adversarial-network-gan/?ref=gcse)
