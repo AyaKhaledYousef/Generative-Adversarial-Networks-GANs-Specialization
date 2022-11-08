@@ -55,6 +55,8 @@ The discriminative model refers to a class of models used in Statistical Classif
 
 ## 2- Generative Adversarial Network (GAN)
 
+![Generator](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/Generator.png)
+
 - The first step in establishing a GAN is to identify the desired end output and gather an initial training dataset based on those parameters. 
 - This data is then randomized and input into the **generator** until it acquires basic accuracy in producing outputs.
 - After this, the **generated** images are fed into the **discriminator** along with actual data points from the original concept. 
