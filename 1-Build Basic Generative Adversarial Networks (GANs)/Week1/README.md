@@ -38,13 +38,25 @@ The discriminative model refers to a class of models used in Statistical Classif
 - Discriminative models draw boundaries in the data space, while generative models try to model how data is placed throughout the space. A generative model focuses on explaining how the data was generated, while a discriminative model focuses on predicting the labels of the data.
 
 - In mathematical terms, a discriminative machine learning trains a model which is done by learning parameters that maximize the conditional probability P(Y|X), while on the other hand, a generative model learns parameters by maximizing the joint probability of P(X, Y).
+---------------------------------------------------------------------------------------------------------------------
 
+# Generative Models
+## 1- Variational AutoEncoders ( VAE ) :
 
+![VAE]()
 
-https://lilianweng.github.io/posts/2018-08-12-vae/
+- Autoencoders are a type of neural network that learns the data encodings from the dataset in an unsupervised way. 
+- It basically contains two parts: the first one is an encoder which is similar to the convolution neural network except for the last layer. 
+- The aim of the encoder to learn efficient data encoding from the dataset and pass it into a bottleneck architecture. 
+- The other part of the autoencoder is a decoder that uses latent space in the bottleneck layer to regenerate the images similar to the dataset. 
+- These results backpropagate from the neural network in the form of the loss function.
+- Variational autoencoder is different from autoencoder in a way such that it provides a statistic manner for describing the samples of the dataset in latent space. 
+- Therefore, in variational autoencoder, the encoder outputs a probability distribution in the bottleneck layer instead of a single output value.
+
+## 2- 
 ## Reference
 
 
 - [Generative VS Discriminative Models](https://mirror-medium.com/?m=https%3A%2F%2Fmedium.com%2F%40mlengineer%2Fgenerative-and-discriminative-models-af5637a66a3)
 - [Deep Understanding of Discriminative and Generative Models in Machine Learning](https://www.analyticsvidhya.com/blog/2021/07/deep-understanding-of-discriminative-and-generative-models-in-machine-learning/#:~:text=Discriminative%20models%20draw%20boundaries%20in,the%20labels%20of%20the%20data.)
-
+- [Variational AutoEncoders](https://www.geeksforgeeks.org/variational-autoencoders/)
