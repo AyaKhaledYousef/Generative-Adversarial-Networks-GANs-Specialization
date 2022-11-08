@@ -63,7 +63,7 @@ The discriminative model refers to a class of models used in Statistical Classif
 - The **discriminator** filters through the information and returns a probability between 0 and 1 to represent each image's authenticity (1 correlates with real and 0 correlates with fake). 
 - These values are then manually checked for success and repeated until the desired outcome is reached.
 
-
+![Generator](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/GAN.png)
 ## Reference
 
 
