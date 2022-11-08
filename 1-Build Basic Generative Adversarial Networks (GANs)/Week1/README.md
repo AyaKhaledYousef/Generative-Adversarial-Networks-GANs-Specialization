@@ -70,3 +70,4 @@ The discriminative model refers to a class of models used in Statistical Classif
 - [Generative VS Discriminative Models](https://mirror-medium.com/?m=https%3A%2F%2Fmedium.com%2F%40mlengineer%2Fgenerative-and-discriminative-models-af5637a66a3)
 - [Deep Understanding of Discriminative and Generative Models in Machine Learning](https://www.analyticsvidhya.com/blog/2021/07/deep-understanding-of-discriminative-and-generative-models-in-machine-learning/#:~:text=Discriminative%20models%20draw%20boundaries%20in,the%20labels%20of%20the%20data.)
 - [Variational AutoEncoders](https://www.geeksforgeeks.org/variational-autoencoders/)
+- [Generator](https://www.geeksforgeeks.org/generative-adversarial-network-gan/?ref=gcse)
