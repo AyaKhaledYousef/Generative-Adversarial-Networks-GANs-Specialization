@@ -43,7 +43,7 @@ The discriminative model refers to a class of models used in Statistical Classif
 # Generative Models
 ## 1- Variational AutoEncoders ( VAE ) :
 
-![VAE]()
+![VAE](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/VAE.jpg)
 
 - Autoencoders are a type of neural network that learns the data encodings from the dataset in an unsupervised way. 
 - It basically contains two parts: the first one is an encoder which is similar to the convolution neural network except for the last layer. 
