@@ -87,3 +87,4 @@ The discriminative model refers to a class of models used in Statistical Classif
 - [Variational AutoEncoders](https://www.geeksforgeeks.org/variational-autoencoders/)
 - [Generator](https://www.geeksforgeeks.org/generative-adversarial-network-gan/?ref=gcse)
 - [GAN](https://www.geeksforgeeks.org/generative-adversarial-network-gan/?ref=gcse)
+- [Tensors](https://pytorch.org/docs/stable/tensors.html)
