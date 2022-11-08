@@ -53,7 +53,15 @@ The discriminative model refers to a class of models used in Statistical Classif
 - Variational autoencoder is different from autoencoder in a way such that it provides a statistic manner for describing the samples of the dataset in latent space. 
 - Therefore, in variational autoencoder, the encoder outputs a probability distribution in the bottleneck layer instead of a single output value.
 
-## 2- 
+## 2- Generative Adversarial Network (GAN)
+
+- The first step in establishing a GAN is to identify the desired end output and gather an initial training dataset based on those parameters. 
+- This data is then randomized and input into the generator until it acquires basic accuracy in producing outputs.
+- After this, the generated images are fed into the discriminator along with actual data points from the original concept. 
+- The discriminator filters through the information and returns a probability between 0 and 1 to represent each image's authenticity (1 correlates with real and 0 correlates with fake). 
+- These values are then manually checked for success and repeated until the desired outcome is reached.
+
+
 ## Reference
 
 
