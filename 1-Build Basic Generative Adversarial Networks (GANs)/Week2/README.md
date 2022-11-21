@@ -24,3 +24,6 @@
 ![image6](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week2/images/6.png)
 ![image7](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week2/images/7.png)
 
+----------------------------------------------------------------------------------------------------------------
+# Reources :
+- [Activation-Functions](https://www.geeksforgeeks.org/activation-functions-neural-networks/)
