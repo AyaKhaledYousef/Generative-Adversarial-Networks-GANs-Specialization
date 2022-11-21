@@ -19,7 +19,7 @@
 ![image2](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week2/images/2.png)
 ---------------------------------------------------------------------------------------------------------------
 ![image3](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week2/images/3.ppm)
-![image4](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week2/images/4.png)
+![image8](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week2/images/8.png)
 ![image5](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week2/images/5.png)
 ![image6](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week2/images/6.png)
 ![image7](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week2/images/7.png)
