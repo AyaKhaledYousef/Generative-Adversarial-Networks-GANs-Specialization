@@ -27,3 +27,4 @@
 ----------------------------------------------------------------------------------------------------------------
 # Reources :
 - [Activation-Functions](https://www.geeksforgeeks.org/activation-functions-neural-networks/)
+- [Activation Functions: Sigmoid, Tanh, ReLU, Leaky ReLU, Softmax](https://medium.com/@cmukesh8688/activation-functions-sigmoid-tanh-relu-leaky-relu-softmax-50d3778dcea5)
