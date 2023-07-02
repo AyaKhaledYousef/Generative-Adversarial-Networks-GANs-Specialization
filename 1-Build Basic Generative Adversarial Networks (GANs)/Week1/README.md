@@ -79,6 +79,16 @@ The discriminative model refers to a class of models used in Statistical Classif
 
 ![BCE](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/BCE5.png)
 
+_________________________________________________________________________________________________________________________
+
+![G-1](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/G-1.png)
+_________________________________________________________________________________________________________________________
+![G-2](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/G-2.png)
+_________________________________________________________________________________________________________________________
+![G-3](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/G-3.png)
+_________________________________________________________________________________________________________________________
+
+
 ## Reference
 
 - [Applications with GAN ](https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/)
