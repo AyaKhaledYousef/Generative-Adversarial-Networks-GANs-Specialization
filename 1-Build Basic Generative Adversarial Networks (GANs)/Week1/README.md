@@ -67,7 +67,7 @@ The discriminative model refers to a class of models used in Statistical Classif
 
 
 # Binary Cross Entropy function (BCE)
-- Is used for training GANs. It's useful for these models, because it's especially designed for classification tasks, where there are two categories like, real and fake. 
+- Is used for training GANs. It's useful for these models because it's specially designed for classification tasks, where there are two categories, real and fake. 
 
 ![BCE](https://github.com/AyaKhaledYousef/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1-Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week1/images/BCE1.png)
 
@@ -81,7 +81,7 @@ The discriminative model refers to a class of models used in Statistical Classif
 
 ## Reference
 
-
+- [Applications with GAN ](https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/)
 - [Generative VS Discriminative Models](https://mirror-medium.com/?m=https%3A%2F%2Fmedium.com%2F%40mlengineer%2Fgenerative-and-discriminative-models-af5637a66a3)
 - [Deep Understanding of Discriminative and Generative Models in Machine Learning](https://www.analyticsvidhya.com/blog/2021/07/deep-understanding-of-discriminative-and-generative-models-in-machine-learning/#:~:text=Discriminative%20models%20draw%20boundaries%20in,the%20labels%20of%20the%20data.)
 - [Variational AutoEncoders](https://www.geeksforgeeks.org/variational-autoencoders/)
